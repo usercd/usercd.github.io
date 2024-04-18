@@ -4,7 +4,7 @@ description: ""
 url: "https://usercd.github.io/"
 author:
   name: "cd"
-  email: "dyutibarma@gmail.com"
+  email: ""
   url: "https://usercd.github.io/"
 
 # Build settings
@@ -26,7 +26,8 @@ defaults:
       layout: "post"
 
 # Plugins
-gems:
+# gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
