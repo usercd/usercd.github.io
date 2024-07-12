@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>陈二的赛博空间</title>
- <link href="https://usercd.github.io//atom.xml" rel="self"/>
- <id>https://usercd.github.io/</id>
- <updated>2024-04-18T20:39:03+08:00</updated>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <id>http://localhost:4000</id>
+ <updated>2024-07-12T20:42:22+08:00</updated>
  <author>
    <name>cd</name>
    <uri>https://usercd.github.io/</uri>
@@ -14,9 +14,19 @@
  
 
  <entry>
+   <title>上岸</title>
+   <link href="http://localhost:4000/%E4%B8%8A%E5%B2%B8"/>
+   <id>http://localhost:4000/上岸</id>
+   <updated>2024-07-12T00:00:00+08:00</updated>
+   <content type="html">&lt;p&gt;24考研二战上岸哈尔滨工业大学本部计算机专硕。&lt;/p&gt; &lt;p&gt;昨天收到了录取通知书，写篇文章记录下这段时间的经历。&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;assets/通知书1.jpg&quot; alt=&quot;通知书&quot; /&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;assets/通知书2.jpg&quot; alt=&quot;通知书&quot; /&gt;&lt;/p&gt; &lt;h3 id=&quot;时间线&quot;&gt;时间线&lt;/h3&gt; &lt;p&gt;先来捋下这两年的时间线&lt;/p&gt; &lt;ul&gt; &lt;li&gt;2022.03-2022.12准备考研初试&lt;/li&gt; &lt;li&gt;2023.02-2023.03准备考研复试&lt;/li&gt; &lt;li&gt;2023.06-2023.12二战初试&lt;/li&gt; &lt;li&gt;2024.02-2024.03二战复试&lt;/li&gt; &lt;li&gt;2024.04考研上岸&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;img src=&quot;/assets/hit.jpg&quot; alt=&quot;hit&quot; /&gt;&lt;/p&gt; &lt;h3 id=&quot;备考经历&quot;&gt;备考经历&lt;/h3&gt; &lt;h4 id=&quot;一战&quot;&gt;一战&lt;/h4&gt; &lt;p&gt;本科就读于一所天津的双非本科，考研的主要原因是有一个名校梦，同时在如今的就业市场上双非本的含金量越来越低，面对现实的无奈和有一颗不甘平凡的心，下定决心要考研，一战院校选择的是华中科技大学，因为很早就研究过计算机统考专业课408，所以按照408专业课，南方院校这几个筛选标签，同时参考往年情况（还有一个原因是有一个好朋友在华科），最后选择了华科。备考期间作息十分的规律&lt;/p&gt; &lt;ul&gt; &lt;li&gt;早上6点起床&lt;/li&gt; &lt;li&gt;7点左右先去教室&lt;/li&gt; &lt;li&gt;8点图书馆开门&lt;/li&gt; &lt;li&gt;22点回宿舍&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;一直这样持续到了12月底初试，梦回高三，只是考研更多的是一个人的狂欢，期间并没有感到特别苦，可能是因为已经经历过了河北的高考吧，一战初试成绩357，复试院线345，最终结果排名140，录取125人，一战以失败告终，计算机报考人数众多，调剂的话并不会有很好的结果，虽然报名时就想过这种结果，但当真的去面对时还是并没有完全准备好，那段时间有过失意、迷茫、尝试找工作的各种不顺利，想二战考研，但又怕再次失败，最后好友的一些鼓励给我了很多的勇气，思来想去，失败又如何，人生从来都不是一帆风顺，&lt;strong&gt;我最大的资本就是我还年轻啊&lt;/strong&gt;。&lt;/p&gt; &lt;h4 id=&quot;二战&quot;&gt;二战&lt;/h4&gt; &lt;p&gt;六月弄完本科毕业的事情后，回到家里，开启了我的第二次的备考之旅。&lt;/p&gt; &lt;p&gt;从夏天&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/夏天.jpg&quot; alt=&quot;夏天&quot; /&gt;&lt;/p&gt; &lt;p&gt;到冬天&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/冬天.jpg&quot; alt=&quot;冬天&quot; /&gt;&lt;/p&gt; &lt;p&gt;因为一些原因，在第二次择校时一志愿选择了哈尔滨工业大学深圳校区，从408统考专业课换到了自命题，第一次比较完整的学完了一本大黑书，传说中的”计算机圣经”CSAPP&lt;/p&gt;...</content>
+ </entry>
+
+ 
+
+ <entry>
    <title>HelloWorld</title>
-   <link href="https://usercd.github.io//HelloWorld"/>
-   <id>https://usercd.github.io//HelloWorld</id>
+   <link href="http://localhost:4000/HelloWorld"/>
+   <id>http://localhost:4000/HelloWorld</id>
    <updated>2024-04-18T00:00:00+08:00</updated>
    <content type="html">&lt;p&gt;开始写一些文章，用来记录生活，主要是给我自己看的，现代的生活每天会接受大量信息，有很多东西都会忘记，想要记录一些事情，不管是学习，生活还是工作，到老的时候有个回忆，在这世间留下一点足迹。&lt;/p&gt;
 
